@@ -1,3 +1,6 @@
+/*
+	删除指定文件夹下文件名中的@符号
+*/
 let fs = require('fs')
 let path = require('path')
 
